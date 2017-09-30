@@ -1,6 +1,6 @@
 # Now I'm going to introduce myself!!
 
-+++
+---
 
 ### My languages
 
@@ -13,8 +13,8 @@
 - C/C++ |
   - faster than light
 
-**Thats all!**
+**Thats all!** |
 
-+++
+---
 
 # Good bye!
