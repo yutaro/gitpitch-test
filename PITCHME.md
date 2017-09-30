@@ -13,7 +13,7 @@
 - C/C++ |
   - faster than light
 
-**Thats all! |**
+**Thats all**|
 
 ---
 
