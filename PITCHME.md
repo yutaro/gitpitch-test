@@ -1,7 +1,7 @@
 # Do you like sports?
 ---
 
-### Faster
+### Topic
 
 - Tornament |
   - to be famous.
@@ -10,15 +10,10 @@
 - Monney |
   - to be rich.
 
-**Thats all**
+---
 
----?code=main.go
-
-@[1-7](こんな感じのコードがあったら)
-@[3](ここがインポートで)
-@[5-7](ここがmain関数の中です。)
-
+### 
 
 ---
 
-# Good bye!
+# THANK YOU!
